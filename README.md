@@ -14,8 +14,8 @@ Only 18.36% of users complete the entire funnel
 Statistically significant differences found across experimental groups using Chi-squared testing
 
 # Files in This Repository 📚 
-Raw dataset used for the analysis: data/food_app_user_behavior_data.csv	
-Main Jupyter Notebook with full analysis: food_app_user_behavior_analysis.ipynb
+Raw dataset used for the analysis: [`/data/food_app_user_behavior_data.csv`](./data/food_app_user_behavior_data.csv)
+Main Jupyter Notebook with full analysis: [`data/food_app_user_behavior_analysis.ipynb`](./data/food_app_user_behavior_analysis.ipynb)
 
 # Author
 Nabilla Hafsah Caesaredia
