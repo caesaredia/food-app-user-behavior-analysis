@@ -14,7 +14,7 @@ This project explores user behavior patterns and evaluates the impact of UI chan
 - Statistically significant differences found across experimental groups using Chi-squared testing
 
 # Files in This Repository 📚 
-- Raw dataset used for the analysis: [`/data/food_app_user_behavior_data.csv`](./data/food_app_user_behavior_data.csv)
+- Raw dataset used for the analysis: [`data/food_app_user_behavior_data.csv`](./data/food_app_user_behavior_data.csv)
 - Main Jupyter Notebook with full analysis: [`data/food_app_user_behavior_analysis.ipynb`](./data/food_app_user_behavior_analysis.ipynb)
 
 # Author
